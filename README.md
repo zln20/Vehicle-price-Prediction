@@ -1,4 +1,4 @@
-# Car-price-Prediction
+# Vehicle-price-Prediction
 This web application is created to help user get an estimated selling value of their vehicle by analyzing different features.
 
 
